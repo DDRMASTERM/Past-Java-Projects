@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;application.css&apos; to &apos;inupt.input1.java&apos;&#x0D;&#x0A;- Original project: &apos;TicTacToe&apos;&#x0D;&#x0A;- Destination element: &apos;inupt.input1.java&apos;&#x0D;&#x0A;- Original element: &apos;application.css&apos;" description="Copy file" destination="=User Input 1/&lt;inupt{input1.java" element1="src/application/application.css" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1503955849946" units="0" version="1.0"/>
+</session>

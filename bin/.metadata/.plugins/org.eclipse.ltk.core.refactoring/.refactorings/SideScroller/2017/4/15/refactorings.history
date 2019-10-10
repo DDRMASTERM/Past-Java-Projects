@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 8 elements to &apos;SideScroller/src&apos;&#x0D;&#x0A;- Original project: &apos;SideScroller&apos;&#x0D;&#x0A;- Destination element: &apos;SideScroller/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Grid.java&#x0D;&#x0A;     user.gif&#x0D;&#x0A;     Color.java&#x0D;&#x0A;     avoid.gif&#x0D;&#x0A;     Location.java&#x0D;&#x0A;     Cell.java&#x0D;&#x0A;     get.gif&#x0D;&#x0A;     Game.java&#x0D;&#x0A;- Update references to refactored element" description="Move files" destination="/src" element1="Grid.java" element2="user.gif" element3="Color.java" element4="avoid.gif" element5="Location.java" element6="Cell.java" element7="get.gif" element8="Game.java" files="8" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1491844194702" units="0" version="1.0"/>
+</session>
